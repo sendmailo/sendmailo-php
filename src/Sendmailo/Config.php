@@ -13,10 +13,7 @@ namespace Sendmailo;
 
 class Config
 {
-    const WRAPPER_VERSION = 'v2.0.0';
+    const VERSION = '1.0';
     const USER_AGENT = 'sendmailo-php/';
-    const MAIN_VERSION = '';
     const MAIN_URL = 'sendmailo.com/api';
-    const SECURED = true;
-    const SMS_VERSION = 'vq';
 }
