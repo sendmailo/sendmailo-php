@@ -26,7 +26,7 @@ final class SendmailoApi extends TestCase
  
     public function testPost()
     {
-        $call = new Call([$this->publicKey, $this->secretKey]);
+        $call = new Api([$this->publicKey, $this->secretKey]);
 
         $emailBody = [
             'FromName' => 'Sendmailo PHP test',

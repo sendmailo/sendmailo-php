@@ -19,7 +19,7 @@ use GuzzleHttp\Exception\GuzzleException;
 use GuzzleHttp\Promise\PromiseInterface;
 
 
-class Call
+class Api
 {
 
 
