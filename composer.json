@@ -4,6 +4,9 @@
     "keywords": ["sendmailo", "api", "php", "email"],
     "homepage": "https://github.com/sendmailo/sendmailo-php/",
     "license": "MIT",
+    "version": "v1.0*",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "authors": [{
         "name": "sendmailo",
         "email": "it@sendmailo.com",
