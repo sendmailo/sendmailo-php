@@ -5,6 +5,8 @@
     "homepage": "https://github.com/sendmailo/sendmailo-php/",
     "license": "MIT",
     "version": "v1.0*",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [{
         "name": "sendmailo",
         "email": "it@sendmailo.com",
